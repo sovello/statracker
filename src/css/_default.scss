@@ -1,0 +1,29 @@
+*{
+		text-decoration: none;
+}
+
+html{
+	height: 100%;
+	
+}
+
+
+body{
+	background: 
+	  linear-gradient(
+      RGBA(108, 129, 184, 0.5), 
+      RGBA(159, 129, 184, 0.5)
+    ),
+    url("../img/jump.jpg");
+	background-size: cover;
+	background-position: bottom;
+	min-height: 100%;
+}
+
+h1{
+	background-color: #85ECD5;
+	color: #590C97;
+	text-align: center;
+	font-size: 5em;
+}
+

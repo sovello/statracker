@@ -1,1 +1,1 @@
-web: gunicorn stattracker.wsgi --log-file -
+web: gunicorn stattracker.stattracker.wsgi --log-file -
